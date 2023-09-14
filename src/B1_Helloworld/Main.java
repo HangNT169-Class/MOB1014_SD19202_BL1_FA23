@@ -2,19 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package mob1014_sd19202_bl1_fa23;
+package B1_Helloworld;
 
 /**
  *
- * @author Duongntt
+ * @author hangnt
  */
-public class MOB1014_SD19202_BL1_FA23 {
+public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.print("ahihi");
+        System.out.println("ahihi111");
+        System.out.println("ggggg");
+
     }
-    
 }
